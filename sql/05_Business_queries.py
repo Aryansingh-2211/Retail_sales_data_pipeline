@@ -8,7 +8,7 @@
 # MAGIC     From fact_sales
 # MAGIC     Group by year(order_date),Month(order_date)
 # MAGIC     Order by revenue desc
-# MAGIC     limit 5;
+            limit 5;
 
 # COMMAND ----------
 
